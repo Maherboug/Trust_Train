@@ -52,16 +52,9 @@ Decentralized AI Training: Trainers upload models, and resource providers perfor
 Federated Learning: The platform supports federated learning, allowing models to be trained across multiple devices without data sharing.
 Secure Payments: Trainers pay resource providers with FLC tokens for training services.
 Blockchain Integration (Aptos Blockchain): Ensures transparency, immutability, and trust using blockchain technology.
-## Demo 
 
-## Acknowledgements
-We would like to thank the following projects, communities, and individuals for their support:
 
-- [Aptos Labs](https://aptoslabs.com/) for providing the blockchain SDK and contributing to the development of the Aptos platform.
-- The **Aptos engineers** for their continued effort in improving the Aptos ecosystem.
-- The [Aptos Documentation](https://aptos.dev/) for providing comprehensive and helpful resources to developers.
-- [Ant Design](https://ant.design/) for UI components that enhanced the user interface.
-- [IPFS](https://ipfs.tech/) for decentralized file storage solutions.
+
 ### Explanation of the Sections:
 1. **Title and Description:** The project title and a brief description of what the TrusTrain platform does.
 2. **Table of Contents:** Helps users navigate to different parts of the README.
